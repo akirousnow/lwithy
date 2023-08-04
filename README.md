@@ -45,7 +45,7 @@ npm run dev
 ```sh
 npm run build
 ```
-
+Push All
 ```shell
 git add .
 git commit -m "update"
