@@ -47,8 +47,7 @@ npm run build
 ```
 
 ```shell
-git pull
 git add .
 git commit -m "update"
-git push origin main
+git push origin master
 ```
